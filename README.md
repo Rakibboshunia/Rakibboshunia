@@ -668,15 +668,7 @@ Every project helps me strengthen my frontend development skills, improve my pro
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Enable this after setting up GitHub Actions.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rakibboshunia/Rakibboshunia/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+# 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg"/> </p>
 
 ---
 
