@@ -492,15 +492,7 @@ https://github.com/Rakibboshunia
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** This animation requires a GitHub Action to generate automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rakibboshunia/Rakibboshunia/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+# 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg"/> </p>
 
 ---
 
