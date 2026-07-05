@@ -30,7 +30,7 @@ Frontend Developer • Next.js • React • TypeScript
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/rakib-bosunia-0a9920233">
+<a href="https://www.linkedin.com/in/md-al-rakeb-rasel-boshunia/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -249,7 +249,7 @@ I'm currently open to opportunities in:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/rakib-bosunia-0a9920233">
+<a href="https://www.linkedin.com/in/md-al-rakeb-rasel-boshunia/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
