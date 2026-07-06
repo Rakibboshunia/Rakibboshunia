@@ -568,7 +568,7 @@ Every project helps me strengthen my frontend development skills, improve my pro
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=tokyonight&no-frame=true&column=4&margin-w=20&margin-h=20"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=algolia&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
