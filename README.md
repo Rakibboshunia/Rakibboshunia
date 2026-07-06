@@ -3,11 +3,11 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=MD.%20AL%20RAKIB%20RASEL%20BOSHUNIA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=MD.%20AL%20RAKEB%20RASEL%20BOSHUNIA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-Hi 👋 I'm MD. Al Rakib Rasel Boshunia
+Hi 👋 I'm MD. Al Rakeb Rasel Boshunia
 </h1>
 
 <h3 align="center">
