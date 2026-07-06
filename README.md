@@ -567,9 +567,9 @@ Every project helps me strengthen my frontend development skills, improve my pro
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&row=2&column=4" />
+  </a>
 </p>
 
 ---
