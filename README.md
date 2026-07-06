@@ -628,7 +628,7 @@ Every project helps me strengthen my frontend development skills, improve my pro
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/rakib-bosunia-0a9920233">
+<a href="https://www.linkedin.com/in/md-al-rakeb-rasel-boshunia/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -652,12 +652,6 @@ Every project helps me strengthen my frontend development skills, improve my pro
 
 ---
 
-# 💬 Favorite Quote
-
-> **"Great software is built one small improvement at a time."**
-
----
-
 # 👀 Profile Views
 
 <p align="center">
@@ -678,7 +672,7 @@ Every project helps me strengthen my frontend development skills, improve my pro
 
 I'm passionate about building modern, responsive, and user-focused web applications.
 
-If you'd like to collaborate, discuss an opportunity, or simply connect, feel free to reach out.
+If you'd like to collaborate, discuss an opportunity, or connect, feel free to reach out.
 
 ### 🚀 Let's build something amazing together!
 
@@ -702,7 +696,7 @@ If you'd like to collaborate, discuss an opportunity, or simply connect, feel fr
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/rakib-bosunia-0a9920233">
+<a href="https://www.linkedin.com/in/md-al-rakeb-rasel-boshunia/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -710,7 +704,7 @@ If you'd like to collaborate, discuss an opportunity, or simply connect, feel fr
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://al-rakeb-boshunia.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -813,30 +807,6 @@ UI/UX            █████████████████ 80%
 
 Backend          ██████████ 40%
 ```
-
----
-
-# 🐍 Contribution Snake
-
-> Requires GitHub Actions to generate automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rakibboshunia/Rakibboshunia/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💭 Favorite Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code."**
-
-— John Johnson
-
-</p>
 
 ---
 
