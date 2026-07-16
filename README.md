@@ -216,36 +216,6 @@ const rakib = {
 
 ---
 
-# 📚 Current Learning Journey
-
-```text
-██████████████████████████░░░░░░ 80%
-
-✅ Next.js
-
-█████████████████████████░░░░░░░ 75%
-
-✅ TypeScript
-
-████████████████████████░░░░░░░░ 70%
-
-✅ React
-
-███████████████████████░░░░░░░░░ 65%
-
-📚 Node.js
-
-██████████████████████░░░░░░░░░░ 60%
-
-📚 PostgreSQL
-
-█████████████████████░░░░░░░░░░░ 55%
-
-📚 Prisma
-```
-
----
-
 # 🌟 Core Skills
 
 <table>
@@ -617,26 +587,6 @@ Every project helps me strengthen my frontend development skills, improve my pro
 ✅ Open Source Contributions
 
 ✅ Remote Software Engineering Role
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="mailto:official.alrakib@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-al-rakeb-rasel-boshunia/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rakibboshunia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
