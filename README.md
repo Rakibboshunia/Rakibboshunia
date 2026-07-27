@@ -11,7 +11,7 @@ Hi 👋 I'm MD. Al Rakeb Rasel Boshunia
 </h1>
 
 <h3 align="center">
-Frontend Developer • Next.js • React • TypeScript
+Software Engineer | Frontend (React/Next JS) | Backend (Node.JS) [Ongoing] | Jr. BacKend Developer | Also WordPress Expart
 </h3>
 
 <p align="center">
