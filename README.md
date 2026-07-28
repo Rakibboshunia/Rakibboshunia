@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./" alt="MD. Al Rakeb Rasel Boshunia Banner" width="100%" />
+  <img src="./banner.png" alt="MD. Al Rakeb Rasel Boshunia Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm MD. Al Rakeb Rasel Boshunia</h1>
