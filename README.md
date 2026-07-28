@@ -66,12 +66,11 @@ I enjoy creating high-performance user interfaces, SaaS platforms, dashboards, a
 
 ### CMS & eCommerce
 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
+### CMS & eCommerce
 
-<p>
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+  <img src="https://cdn.simpleicons.org/shopify" alt="Shopify" width="48" height="48" />
 </p>
 
 ### Tools
