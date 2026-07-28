@@ -105,28 +105,28 @@ I enjoy creating high-performance user interfaces, SaaS platforms, dashboards, a
 
 | Project | Tech Stack |
 |---------|------------|
-| ERP System | Next.js • React • TypeScript • Node.js • Express.js • MongoDB |
-| TaskFlow AI | Next.js • React • TypeScript • Tailwind CSS |
-| MediCare Pro | Next.js • React • TypeScript • MongoDB |
-| EduKai CV Subscription | Next.js • React • TypeScript |
-| EduNest | React • Firebase • Tailwind CSS |
-| Daily Basket | React • Tailwind CSS |
-| Soundtrack My Night | React • API Integration |
-| Rory Music Playlist | React • JavaScript |
-| Vango Live | Next.js • React |
-| MediAI Dashboard | Next.js • TypeScript |
-| Decentralized E-Voting | Solidity • Ethereum • Hardhat |
-| World Atlas | React • REST API |
-
+| ERP System | Next.js • React • TypeScript • Node.js • Express.js • MongoDB 
+| TaskFlow AI | Next.js • React • TypeScript • Tailwind CSS 
+| MediCare Pro | Next.js • React • TypeScript • MongoDB 
+| EduKai CV Subscription | Next.js • React • TypeScript 
+| EduNest | React • Firebase • Tailwind CSS 
+| Daily Basket | React • Tailwind CSS 
+| Soundtrack My Night | React • API Integration 
+| Rory Music Playlist | React • JavaScript 
+| Vango Live | Next.js • React 
+| MediAI Dashboard | Next.js • TypeScript 
+| Decentralized E-Voting | Solidity • Ethereum • Hardhat 
+| World Atlas | React • REST API 
 
 ## CMS & eCommerce Projects
 
-| Project | Platform |
-|---------|----------|
-| Italian Bracelets | WordPress • WooCommerce |
-| Property Elevated | WordPress |
-| Squeaky Clean Experts | WordPress |
-| Rose Café | WordPress |
+| Project | Technologies |
+|---------|--------------|
+| Italian Bracelets | WordPress • WooCommerce 
+| Allswell Care Services | WordPress • Elementor • Contact Forms 
+| Property Elevated | WordPress • Elementor 
+| Squeaky Clean Experts | WordPress • Elementor 
+| Shopify Store Development | Shopify • Liquid • HTML • CSS • JavaScript 
 
 ---
 
