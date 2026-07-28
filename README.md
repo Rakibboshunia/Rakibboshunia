@@ -79,16 +79,19 @@ I enjoy creating high-performance user interfaces, SaaS platforms, dashboards, a
 
 ### AI Tools
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/x" alt="Grok" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/cursor" alt="Cursor" width="48" height="48" />
-  <img src="./assets/deepseek.svg" alt="DeepSeek" width="48" height="48" />
-<img src="./assets/kimi.svg" alt="Kimi" width="48" height="48" />
-<img src="./assets/antigravity.svg" alt="Antigravity" width="48" height="48" />
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge" />
 </p>
 
 ---
