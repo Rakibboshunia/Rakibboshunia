@@ -15,7 +15,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer | Frontend (React/Next.js) | MERN Stack Developer | WordPress & Shopify Expert
+  Software Engineer | Frontend Developer | React.js | Next.js | TypeScript | Node.js | Express.js | MongoDB | WordPress | Shopify
 </h3>
 
 ---
