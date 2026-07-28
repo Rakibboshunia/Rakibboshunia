@@ -1,39 +1,22 @@
 <!-- ===================================================== -->
-<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                     HERO SECTION                      -->
 <!-- ===================================================== -->
 
 <p align="center">
   <img src="./Banner.png" alt="MD. Al Rakeb Rasel Boshunia Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi 👋 I'm MD. Al Rakeb Rasel Boshunia
-</h1>
+<h1 align="center">Hi 👋 I'm MD. Al Rakeb Rasel Boshunia</h1>
 
 <h3 align="center">
-  Software Engineer | Frontend Developer | React.js | Next.js | TypeScript | Node.js | Express.js | MongoDB | WordPress | Shopify
+Software Engineer | Frontend Developer | React.js • Next.js • TypeScript | MERN Stack | WordPress & Shopify
 </h3>
 
----
-
 <p align="center">
-
-<a href="https://github.com/Rakibboshunia">
-<img src="https://img.shields.io/github/followers/Rakibboshunia?logo=github&style=for-the-badge&color=181717"/>
-</a>
-
-<a href="https://github.com/Rakibboshunia">
-<img src="https://img.shields.io/github/stars/Rakibboshunia?affiliations=OWNER&style=for-the-badge&color=F59E0B"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Rakibboshunia&style=for-the-badge&color=2563EB"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Frontend+Developer+from+Bangladesh;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Solutions;Always+Learning+🚀"/>
 </p>
 
----
-
 <p align="center">
-
 <a href="mailto:official.alrakib@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -46,494 +29,76 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://al-rakeb-boshunia.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 Frontend Developer
-
-I'm a passionate Frontend Developer from Bangladesh who specializes in building modern, responsive, and user-centric web applications. I enjoy transforming ideas into clean, scalable, and high-performance digital experiences with a strong focus on code quality, usability, and maintainability.
-
-I continuously explore new technologies and enjoy working on real-world projects that challenge me to grow as a developer. Beyond crafting intuitive user interfaces, I'm expanding my expertise in backend development and AI-powered applications to build complete, production-ready solutions.
-
-I believe in continuous learning, attention to detail, and writing code that is both efficient and maintainable. I'm always eager to take on new challenges, collaborate with talented teams, and contribute to products that deliver meaningful value to users.
-
----
-
-### 💼 Open To
-
-- 💻 Frontend Developer
-- ⚛️ React Developer
-- ▲ Next.js Developer
-- 🌍 Remote Opportunities
-- 🤝 Freelance Projects
-
----
-
-### ⚡ Quick Highlights
-
-- 🚀 Building modern SaaS interfaces
-- 🎨 Passionate about clean UI/UX
-- 📱 Responsive-first development
-- ⚙️ Component-based architecture
-- 📚 Continuous learner
-- 🌟 Open to collaboration
-
----
-
-<!-- ===================================================== -->
-<!--                     ABOUT ME                          -->
-<!-- ===================================================== -->
-
 # 👨‍💻 About Me
 
-```typescript
-const rakib = {
-  location: "Bangladesh 🇧🇩",
+Software Engineer specializing in building modern, responsive, and scalable web applications using React.js, Next.js, and TypeScript.
 
-  role: "Frontend Developer",
-
-  education: "B.Sc. in Computer Science & Engineering",
-
-  specialization: [
-    "Next.js",
-    "React",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  currentlyLearning: [
-    "Node.js",
-    "Express.js",
-    "PostgreSQL",
-    "Prisma",
-    "AI Integration"
-  ],
-
-  interests: [
-    "Modern SaaS",
-    "AI Applications",
-    "Dashboard UI",
-    "Performance",
-    "Clean Architecture"
-  ],
-
-  goal: "Building scalable, beautiful and production-ready web applications."
-}
-```
-
----
-
-# 🚀 What I Do
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 💻 Frontend Development
-
-- Modern UI Development
-- Responsive Websites
-- Landing Pages
-- Dashboard Applications
-- SaaS Interfaces
-- Component Libraries
-
-</td>
-
-<td width="50%">
-
-### ⚡ Development Focus
-
-- Clean Code
-- Reusable Components
-- Performance Optimization
-- UI/UX
-- Accessibility
-- Mobile First Design
-
-</td>
-
-</tr>
-
-</table>
+I enjoy creating high-performance user interfaces, SaaS platforms, dashboards, and eCommerce solutions while continuously expanding my backend development skills with Node.js, Express.js, and MongoDB.
 
 ---
 
 # 🛠 Tech Stack
 
-## 🚀 Frontend
+### Frontend
 
 <p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css"/>
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### CMS & eCommerce
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman"/>
 </p>
 
 ---
-
-## 🎨 UI & Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
-- Responsive Design
-- SaaS UI
-- Dashboard Design
-- Design Systems
-- Component Architecture
-
----
-
-## ⚙️ Backend (Currently Learning)
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/>
-
-</p>
-
----
-
-## 🧰 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm"/>
-
-</p>
-
----
-
-# 🌟 Core Skills
-
-<table>
-
-<tr>
-
-<td>
-
-✅ Next.js
-
-</td>
-
-<td>
-
-✅ React.js
-
-</td>
-
-<td>
-
-✅ TypeScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Tailwind CSS
-
-</td>
-
-<td>
-
-✅ JavaScript
-
-</td>
-
-<td>
-
-✅ Responsive Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Component Architecture
-
-</td>
-
-<td>
-
-✅ UI Development
-
-</td>
-
-<td>
-
-✅ Performance Optimization
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Current Focus
-
-🚀 Building Modern SaaS Applications
-
-🤖 AI-inspired User Interfaces
-
-⚡ Performance Optimization
-
-📱 Responsive Web Applications
-
-🎨 Beautiful User Experiences
-
-📦 Scalable Component Architecture
-
-🌍 Production Ready Projects
-
----
-
-# ❤️ I Enjoy Building
-
-💼 Business Websites
-
-📊 Admin Dashboards
-
-🤖 AI Interfaces
-
-🎓 Educational Platforms
-
-🛒 eCommerce Websites
-
-📱 Responsive Web Apps
-
-🌐 Portfolio Websites
-
----
-
-> ### 💡 "Great products are built by combining clean code, thoughtful design, and continuous learning."
->
-> <!-- ===================================================== -->
-<!--                 FEATURED PROJECTS                     -->
-<!-- ===================================================== -->
 
 # 🚀 Featured Projects
 
-> Here are some of the projects I've built while learning modern frontend development and creating production-quality user interfaces.
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 NextResume AI
-
-**AI-Inspired Resume Builder**
-
-A modern SaaS-style resume builder focused on clean UI, responsive design, and an intuitive multi-step user experience.
-
-### ⚡ Features
-
-- Multi-Step Resume Builder
-- Live Resume Preview
-- Premium Dashboard UI
-- Modern SaaS Design
-- Responsive Layout
-
-### 🛠 Tech
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css)
-
-**🔗 Live Demo**
-
-https://nextresume-ai.vercel.app
-
-**💻 GitHub**
-
-https://github.com/Rakibboshunia/NextResume-AI
-
-</td>
-
-<td width="50%">
-
-## 📊 TaskFlow AI
-
-**AI Project Management Dashboard**
-
-A modern project management dashboard inspired by today's SaaS products with analytics, charts, and responsive layouts.
-
-### ⚡ Features
-
-- Dashboard Analytics
-- Interactive Charts
-- Task Overview
-- Team Management UI
-- Dark Modern Interface
-
-### 🛠 Tech
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css)
-
-**🌐 Live Demo**
-
-https://taskflow-ai-bice-eta.vercel.app/
-
-**💻 GitHub**
-
-https://github.com/Rakibboshunia/TaskFlow-AI
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎓 EduNest
-
-**Modern Learning Platform**
-
-A modern educational platform UI focused on delivering an engaging learning experience through beautiful and responsive design.
-
-### ⚡ Features
-
-- Course Showcase
-- Instructor Section
-- Statistics
-- Beautiful Landing Page
-- Responsive Design
-
-### 🛠 Tech
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css)
-
-**🌐 Live Demo**
-
-https://edu-nest-eta.vercel.app/
-
-**💻 GitHub**
-
-https://github.com/Rakibboshunia/EduNest
-
-</td>
-
-<td width="50%">
-
-## 🛒 Daily Basket
-
-**Modern Grocery eCommerce**
-
-A responsive grocery shopping frontend designed with modern UI components and a smooth shopping experience.
-
-### ⚡ Features
-
-- Product Showcase
-- Categories
-- Promotions
-- Responsive Layout
-- Modern eCommerce UI
-
-### 🛠 Tech
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css)
-
-**🌐 Live Demo**
-
-https://daily-basket-puce.vercel.app/
-
-**💻 GitHub**
-
-https://github.com/Rakibboshunia/Daily-Basket
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ⭐ More Projects
-
 | Project | Description |
 |---------|-------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing my work and skills |
-| 🏠 Property Elevated | Modern real estate business website |
-| 🧹 Cleaning Services Website | Responsive business website built with WordPress |
-| 🎵 Music Playlist App | Interactive music discovery interface |
-| 📍 World Atlas | Country information and exploration project |
+| **ERP System** | Enterprise Resource Planning Platform |
+| **TaskFlow AI** | AI-powered Project Management Platform |
+| **MediCare Pro** | Healthcare Management Platform |
+| **EduKai** | AI-powered Resume Platform |
+| **EduNest** | Learning Management System |
+| **Daily Basket** | Grocery eCommerce Platform |
+| **Italian Bracelets** | WooCommerce eCommerce Website |
+| **Soundtrack My Night** | AI-powered Wedding Playlist Platform |
 
 ---
-
-# 📌 Development Philosophy
-
-```text
-💡 Learn → Build → Improve → Repeat
-```
-
-I believe the best way to grow as a developer is by building real-world applications and continuously learning from every project.
-
-Each project is an opportunity to strengthen my technical skills, improve my problem-solving mindset, and write cleaner, more maintainable code. I'm committed to continuous improvement, embracing new technologies, and creating products that deliver meaningful value and exceptional user experiences.
-
-<!-- ===================================================== -->
-<!--                 GITHUB ANALYTICS                      -->
-<!-- ===================================================== -->
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rakibboshunia&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibboshunia&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Rakibboshunia&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rakibboshunia&theme=onedark&no-frame=true&row=2&column=4" />
-  </a>
 </p>
 
 ---
@@ -541,96 +106,10 @@ Each project is an opportunity to strengthen my technical skills, improve my pro
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibboshunia&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
-
-# ⚡ Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-🎨 UI Design
-   │
-   ▼
-⚛️ Frontend Development
-   │
-   ▼
-📱 Responsive Optimization
-   │
-   ▼
-🚀 Deployment
-```
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Next.js Ecosystem
-
-✅ Build Production-Ready SaaS Applications
-
-✅ Learn Backend Development
-
-✅ AI Integration
-
-✅ Open Source Contributions
-
-✅ Remote Software Engineering Role
-
----
-
-# 💼 Open To Opportunities
-
-<div align="center">
-
-| 💻 Frontend Development | ⚛️ React & Next.js | 🌍 Remote Jobs |
-|:-----------------------:|:------------------:|:--------------:|
-| ✔ Available | ✔ Available | ✔ Available |
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rakibboshunia&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Rakibboshunia/snake/output/snake.svg"/> </p>
-
----
-
-# ⭐ Thanks for Visiting My Profile
-
-<p align="center">
-
-I'm passionate about building modern, responsive, and user-focused web applications.
-
-If you'd like to collaborate, discuss an opportunity, or connect, feel free to reach out.
-
-### 🚀 Let's build something amazing together!
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</p>
-
-<!-- ===================================================== -->
-<!--                 SUPPORT & CONNECT                     -->
-<!-- ===================================================== -->
 
 # 🤝 Let's Connect
 
@@ -653,5 +132,3 @@ If you'd like to collaborate, discuss an opportunity, or connect, feel free to r
 </a>
 
 </p>
-
----
