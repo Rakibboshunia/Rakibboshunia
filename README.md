@@ -49,41 +49,84 @@ I enjoy creating high-performance user interfaces, SaaS platforms, dashboards, a
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
 ### CMS & eCommerce
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
+
+### AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **ERP System** | Enterprise Resource Planning Platform |
-| **TaskFlow AI** | AI-powered Project Management Platform |
-| **MediCare Pro** | Healthcare Management Platform |
-| **EduKai** | AI-powered Resume Platform |
-| **EduNest** | Learning Management System |
-| **Daily Basket** | Grocery eCommerce Platform |
-| **Italian Bracelets** | WooCommerce eCommerce Website |
-| **Soundtrack My Night** | AI-powered Wedding Playlist Platform |
+## Custom Web Applications
+
+| Project | Tech Stack |
+|---------|------------|
+| ERP System | Next.js • React • TypeScript • Node.js • Express.js • MongoDB |
+| TaskFlow AI | Next.js • React • TypeScript • Tailwind CSS |
+| MediCare Pro | Next.js • React • TypeScript • MongoDB |
+| EduKai CV Subscription | Next.js • React • TypeScript |
+| EduNest | React • Firebase • Tailwind CSS |
+| Daily Basket | React • Tailwind CSS |
+| Soundtrack My Night | React • API Integration |
+| Rory Music Playlist | React • JavaScript |
+| Vango Live | Next.js • React |
+| MediAI Dashboard | Next.js • TypeScript |
+| Decentralized E-Voting | Solidity • Ethereum • Hardhat |
+| World Atlas | React • REST API |
+
+
+## CMS & eCommerce Projects
+
+| Project | Platform |
+|---------|----------|
+| Italian Bracelets | WordPress • WooCommerce |
+| Property Elevated | WordPress |
+| Squeaky Clean Experts | WordPress |
+| Rose Café | WordPress |
 
 ---
 
