@@ -121,10 +121,10 @@ I'm passionate about continuous learning, solving real-world problems, and colla
 
 | Project | Technologies |
 |---------|--------------|
-| Italian Bracelets | WordPress • WooCommerce 
-| Allswell Care Services | WordPress • Elementor • Contact Forms 
-| Property Elevated | WordPress • Elementor 
-| Squeaky Clean Experts | WordPress • Elementor 
+| Italian Bracelets | WordPress • Elementor • pro WooCommerce 
+| Allswell Care Services | WordPress • Elementor pro • Contact Forms 
+| Property Elevated | WordPress • Elementor pro
+| Squeaky Clean Experts | WordPress • Elementor pro
 | Shopify Store Development | Shopify • Liquid • HTML • CSS • JavaScript 
 
 ---
