@@ -38,7 +38,7 @@ Frontend Engineer | React.js | Next.js | TypeScript | Node.js | Express.js | Mon
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer with a strong focus on frontend development, specializing in React.js, Next.js, TypeScript, and modern JavaScript. I build responsive, scalable, and high-performance web applications with an emphasis on clean architecture, reusable components, and exceptional user experiences.
+I'm a Frontend Engineer with a strong focus on frontend development, specializing in React.js, Next.js, TypeScript, and modern JavaScript. I build responsive, scalable, and high-performance web applications with an emphasis on clean architecture, reusable components, and exceptional user experiences.
 
 I have experience developing SaaS platforms, ERP systems, AI-powered applications, eCommerce solutions, and business websites using React, Next.js, WordPress, and Shopify. Alongside frontend development, I'm expanding my backend expertise with Node.js, Express.js, PostgreSQL, Prisma, and MongoDB to build complete full-stack applications.
 
