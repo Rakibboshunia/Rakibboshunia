@@ -14,7 +14,7 @@ Frontend Engineer | React.js | Next.js | TypeScript | Node.js | Express.js | Mon
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Frontend+Developer+from+Bangladesh;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Solutions;Always+Learning+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Developer;Building+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;WordPress+Developer;Shopify+Developer;Clean+Code+%7C+Modern+Architecture;Open+to+Freelance+%26+Remote+Opportunities;Always+Learning+%F0%9F%9A%80"
   />
 </p>
 
