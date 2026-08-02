@@ -40,11 +40,13 @@ Software Developer | React.js | Next.js | TypeScript | Node.js | Express.js | Mo
 
 ### 👨‍💻 About Me
 
-I'm a Frontend Engineer with a strong focus on frontend development, specializing in React.js, Next.js, TypeScript, and modern JavaScript. I build responsive, scalable, and high-performance web applications with an emphasis on clean architecture, reusable components, and exceptional user experiences.
+I'm a Software Developer passionate about building modern, scalable, and high-performance web applications. My primary expertise includes React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, and MongoDB. I enjoy developing clean, maintainable, and user-focused applications with an emphasis on reusable components, performance, and modern software architecture.
 
-I have experience developing SaaS platforms, ERP systems, AI-powered applications, eCommerce solutions, and business websites using React, Next.js, WordPress, and Shopify. Alongside frontend development, I'm expanding my backend expertise with Node.js, Express.js, PostgreSQL, Prisma, and MongoDB to build complete full-stack applications.
+In addition to modern JavaScript development, I also specialize in WordPress and Shopify development, building custom business websites, eCommerce stores, landing pages, and CMS-based solutions tailored to business needs.
 
-I'm passionate about continuous learning, solving real-world problems, and collaborating with teams to deliver reliable, production-ready software.
+I have hands-on experience building SaaS platforms, ERP systems, AI-powered applications, eCommerce solutions, business websites, and custom web applications. I'm continuously expanding my backend expertise with PostgreSQL, Prisma, and MongoDB to deliver complete end-to-end software solutions.
+
+I'm passionate about solving real-world problems through technology, writing clean and maintainable code, learning new technologies, and collaborating with teams to build reliable, production-ready software that creates real business value.
 
 ---
 
