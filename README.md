@@ -106,29 +106,37 @@ I'm passionate about solving real-world problems through technology, writing cle
 
 ## Custom Web Applications
 
-| Project | Tech Stack |
+| Full Stack Development Project |
 |---------|------------|
+
+| Soundtrack My Night | React.js • JavaScript • Node.js • Express.js • MongoDB
+| EduKai CV Subscription | React • python • Django 
+| MediAI Dashboard | React • python • Django
+| BoiToi LMS | Next.js • React.js • TypeScript • Node.js • Express.js • MongoDB 
+
+| Frontend Development Project |
+|---------|------------|
+
 | ERP System | Next.js • React • TypeScript • Node.js • Express.js • MongoDB 
 | TaskFlow AI | Next.js • React • TypeScript • Tailwind CSS 
-| MediCare Pro | Next.js • React • TypeScript • MongoDB 
-| EduKai CV Subscription | Next.js • React • TypeScript 
+| MediCare Pro | Next.js • React • TypeScript • MongoDB  
 | EduNest | React • Firebase • Tailwind CSS 
-| Daily Basket | React • Tailwind CSS 
-| Soundtrack My Night | React • API Integration 
+| Daily Basket | React • Tailwind CSS  
 | Rory Music Playlist | React • JavaScript 
-| Vango Live | Next.js • React 
-| MediAI Dashboard | Next.js • TypeScript 
+| Vango Live | Next.js • React  
 | Decentralized E-Voting | Solidity • Ethereum • Hardhat 
 | World Atlas | React • REST API 
 
 ## CMS & eCommerce Projects
 
-| Project | Technologies |
+| CMS Development Project |
 |---------|--------------|
-| Italian Bracelets | WordPress • Elementor • pro WooCommerce 
-| Allswell Care Services | WordPress • Elementor pro • Contact Forms 
+
+| Italian Bracelets | WordPress • Elementor pro • WooCommerce 
+| Allswell Care Services | WordPress • Elementor pro  
 | Property Elevated | WordPress • Elementor pro
 | Squeaky Clean Experts | WordPress • Elementor pro
+| Cyber Security Services | WordPress • Elementor pro
 | Shopify Store Development | Shopify • Liquid • HTML • CSS • JavaScript 
 
 ---
