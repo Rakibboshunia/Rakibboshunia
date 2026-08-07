@@ -120,37 +120,37 @@ I'm passionate about solving real-world problems through technology, writing cle
 <br>
 | BoiToi LMS |
 | Next.js • React.js • TypeScript • Node.js • Express.js • MongoDB |
+<br>
+| ERP System |
+| Next.js • React • TypeScript • Node.js • Express.js • MongoDB |
 
 
 | Frontend Development Project |
 |------------------------------|
 
-| ERP System |
-| Next.js • React • TypeScript • Node.js • Express.js • MongoDB |
-<br>
 | TaskFlow AI |
 | Next.js • React • TypeScript • Tailwind CSS |
 <br>
 | MediCare Pro |
-| Next.js • React • TypeScript • MongoDB |
+| Next.js • React • TypeScript • Tailwind CSS |
 <br>
 | EduNest |
-| React • Firebase • Tailwind CSS |
+| React • JavaScript • Tailwind CSS |
 <br>
 | Daily Basket |
-| React • Tailwind CSS |
+| React • JavaScript • Tailwind CSS |
 <br>
 | Rory Music Playlist |
-| React • JavaScript |
+| React • JavaScript • Tailwind CSS |
 <br>
 | Vango Live |
-| Next.js • React |
+| React • JavaScript • Tailwind CSS |
 <br>
 | Decentralized E-Voting |
 | Solidity • Ethereum • Hardhat |
 <br>
 | World Atlas |
-| React • REST API |
+| React • JavaScript • Tailwind CSS |
 
 | CMS Development Project |
 |-------------------------|
