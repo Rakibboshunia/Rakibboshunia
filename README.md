@@ -121,7 +121,6 @@ I'm passionate about solving real-world problems through technology, writing cle
 | BoiToi LMS |
 | Next.js • React.js • TypeScript • Node.js • Express.js • MongoDB |
 
----
 
 | Frontend Development Project |
 |------------------------------|
