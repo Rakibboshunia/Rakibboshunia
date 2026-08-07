@@ -107,37 +107,106 @@ I'm passionate about solving real-world problems through technology, writing cle
 ## Custom Web Applications
 
 | Full Stack Development Project |
-|---------|------------|
+|--------------------------------|
 
-| Soundtrack My Night | React.js • JavaScript • Node.js • Express.js • MongoDB
-| EduKai CV Subscription | React • python • Django 
-| MediAI Dashboard | React • python • Django
-| BoiToi LMS | Next.js • React.js • TypeScript • Node.js • Express.js • MongoDB 
+| Soundtrack My Night |
+| React.js • JavaScript • Node.js • Express.js • MongoDB |
+
+<br>
+
+| EduKai CV Subscription |
+| React • Python • Django |
+
+<br>
+
+| MediAI Dashboard |
+| React • Python • Django |
+
+<br>
+
+| BoiToi LMS |
+| Next.js • React.js • TypeScript • Node.js • Express.js • MongoDB |
+
+---
 
 | Frontend Development Project |
-|---------|------------|
+|------------------------------|
 
-| ERP System | Next.js • React • TypeScript • Node.js • Express.js • MongoDB 
-| TaskFlow AI | Next.js • React • TypeScript • Tailwind CSS 
-| MediCare Pro | Next.js • React • TypeScript • MongoDB  
-| EduNest | React • Firebase • Tailwind CSS 
-| Daily Basket | React • Tailwind CSS  
-| Rory Music Playlist | React • JavaScript 
-| Vango Live | Next.js • React  
-| Decentralized E-Voting | Solidity • Ethereum • Hardhat 
-| World Atlas | React • REST API 
+| ERP System |
+| Next.js • React • TypeScript • Node.js • Express.js • MongoDB |
+
+<br>
+
+| TaskFlow AI |
+| Next.js • React • TypeScript • Tailwind CSS |
+
+<br>
+
+| MediCare Pro |
+| Next.js • React • TypeScript • MongoDB |
+
+<br>
+
+| EduNest |
+| React • Firebase • Tailwind CSS |
+
+<br>
+
+| Daily Basket |
+| React • Tailwind CSS |
+
+<br>
+
+| Rory Music Playlist |
+| React • JavaScript |
+
+<br>
+
+| Vango Live |
+| Next.js • React |
+
+<br>
+
+| Decentralized E-Voting |
+| Solidity • Ethereum • Hardhat |
+
+<br>
+
+| World Atlas |
+| React • REST API |
 
 ## CMS & eCommerce Projects
 
 | CMS Development Project |
-|---------|--------------|
+|-------------------------|
 
-| Italian Bracelets | WordPress • Elementor pro • WooCommerce 
-| Allswell Care Services | WordPress • Elementor pro  
-| Property Elevated | WordPress • Elementor pro
-| Squeaky Clean Experts | WordPress • Elementor pro
-| Cyber Security Services | WordPress • Elementor pro
-| Shopify Store Development | Shopify • Liquid • HTML • CSS • JavaScript 
+| Italian Bracelets |
+| WordPress • Elementor Pro • WooCommerce |
+
+<br>
+
+| Allswell Care Services |
+| WordPress • Elementor Pro |
+
+<br>
+
+| Property Elevated |
+| WordPress • Elementor Pro |
+
+<br>
+
+| Squeaky Clean Experts |
+| WordPress • Elementor Pro |
+
+<br>
+
+| Cyber Security Services |
+| WordPress • Elementor Pro |
+
+<br>
+
+| Shopify Store Development |
+| Shopify • Liquid • HTML • CSS • JavaScript |
 
 ---
 
