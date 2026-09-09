@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 I'm MD. Al Rakeb Rasel Boshunia</h1>
 
 <h3 align="center">
-Frontend Developer | React.js & Next.js | TypeScript | Node.js | Express.js | MongoDB | REST APIs | Aspiring Full-Stack Developer | Also WordPress & Shopify Expert
+Frontend Developer | React.js & Next.js | Node.js | Express.js | MongoDB | REST APIs | Aspiring Full-Stack Developer | Also WordPress & Shopify Expert
 </h3>
 
 <p align="center">
